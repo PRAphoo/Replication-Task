@@ -1,0 +1,216 @@
+.first-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 50px;
+  height: 100vh;
+  margin: 0;
+}
+
+
+.conference-details {
+  flex: 1;
+  margin-right: 130px;
+  margin-top: 130px;
+}
+
+.title {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.subtitle {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.conference-info {
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+.button {
+  background-color: lightyellow;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.conference-image-container {
+  flex: 1;
+  max-width: 50%;
+}
+.conference-image {
+   width: 115%;
+   height: 590px;
+   object-fit:cover; 
+}
+.second-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 50px;
+  margin: 0;
+}
+
+.e-commerce-event-info {
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.e-commerce-event-info {
+  margin-bottom: 40px;
+}
+
+.title {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.sub-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.event-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.event-img {
+  width: 250%;
+  height: 700px;
+  border-radius: 5px;
+}
+  .third-section {
+    padding: 50px;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .speaker-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .speaker-heading {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 50px;
+  }
+  
+  .speaker-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .speaker-box {
+    margin: 20px;
+    max-width: 350px;
+    text-align: left;
+  }
+  
+  .speaker-box img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+  
+  .speaker-box figcaption {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: -15px;
+  }
+  
+  .speaker-box h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .speaker-box p {
+    font-size: 18px;
+    margin-bottom: 5px;
+    text-align: center;
+  }
+  
+  .speaker-box h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  .fourth-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 50px;
+    height: 100vh;
+    margin: 0;
+  }
+  .conference-details {
+    flex: 1;
+    margin-right: 160px;
+    margin-top: 160px;
+  }
+  .title {
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  .subtitle {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .conference-info {
+    font-size: 20px;
+    margin-bottom: 40px;
+  }
+  .button {
+    background-color: skyblue;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .conference-image-container {
+      flex:1; 
+      max-width:50%;
+  }
+  .conference-image {
+      width:115%;
+      height:600px; 
+      object-fit:cover; 
+  }
+  
+  
+  
+  
